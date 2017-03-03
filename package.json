@@ -1,0 +1,23 @@
+{
+  "name": "distributed-site",
+  "version": "1.0.0",
+  "description": "Public site for distributed apps",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/distributed-apps/distributed-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/distributed-apps/distributed-site/issues"
+  },
+  "homepage": "https://github.com/distributed-apps/distributed-site#readme",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
